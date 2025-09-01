@@ -32,6 +32,7 @@
 ## 📚 Em aprendizado contínuo
 
 - 📌 Python
+- 📌 Game Development
 
 ## 📫 Contato
 
