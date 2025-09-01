@@ -1,7 +1,7 @@
-<h1 align="center">👋 Olá, eu sou o Helryson!</h1>
+<h1 align="center">👋 Olá, eu sou o Luciano!</h1>
 
 <p align="center">
-  <strong>Estudante de Machine Learning | Ciência da Computação | Entusiasta de Rocketry</strong>
+  <strong>Estudante de Ciência da Computação</strong>
 </p>
 
 <p align="center">
@@ -23,13 +23,8 @@
 
 <p align="center" style="display: inline-block;">
   <a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <a href="https://pt.wikipedia.org/wiki/PostgreSQL"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
-  <a href="https://en.wikipedia.org/wiki/Cloud_computing"><img alt="Cloud" src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
-  <a href="https://www.databricks.com"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-FC4202?style=for-the-badge&logo=databricks&logoColor=white"/></a>
   <a href="https://en.wikipedia.org/wiki/Machine_learning"><img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
-  <a href="https://www.docker.com"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
   <a href="https://pt.wikipedia.org/wiki/Linux"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
-  <a href="https://pt.wikipedia.org/wiki/Data_science"><img alt="Data Science" src="https://img.shields.io/badge/Data_Science-3C5186?style=for-the-badge&logo=databricks&logoColor=white"/></a>
 </p>
 
 ---
