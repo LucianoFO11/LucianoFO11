@@ -9,7 +9,6 @@
 </p>
 
 ---
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ## 🚀 Sobre mim
 
 🎓 Sou estudante de **Ciência da Computação** e estou atualmente no **6º semestre**.<br>
