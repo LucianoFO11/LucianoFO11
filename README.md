@@ -41,6 +41,7 @@
 
 - 📌 Python
 - 📌 Game Development
+- 📌 Java
 
 ## 📫 Contato
 
