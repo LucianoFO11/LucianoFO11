@@ -12,9 +12,11 @@
 ## 🚀 Sobre mim
 
 🎓 Sou estudante de **Ciência da Computação** e estou atualmente no **6º semestre**.<br>
-🛠️ Atuo como **líder de turma**.<br>
+🔰 Atuo como **líder de turma**.<br>
 🌱 Estudando **Machine Learning**, **Python**, e outras áreas avançadas de tecnologia.<br>
 🏗️ Apaixonado por projetos desafiadores e aprendizado constante.
+
+⚒️ Atualmente focado em criar meu primeiro **Magnum Opus**.<br>
 
 ---
 
