@@ -35,6 +35,7 @@
   <a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
   <a href="https://en.wikipedia.org/wiki/Machine_learning"><img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
   <a href="https://pt.wikipedia.org/wiki/Linux"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
+  <a href="https://pt.wikipedia.org/wiki/Ubuntu"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
 </p>
 
 ---
