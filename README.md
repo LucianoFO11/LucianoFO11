@@ -45,7 +45,7 @@
 - 📌 Python
 - 📌 Game Development
 - 📌 Unreal Engine 4
-- 📌 Java
+- 📌 Machine Learning
 
 ## 📫 Contato
 
