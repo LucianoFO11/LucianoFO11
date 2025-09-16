@@ -38,7 +38,11 @@
   <a href="https://pt.wikipedia.org/wiki/Ubuntu"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
 </p>
 
-
+<div>
+<a href="https://github.com/LucianoFO11">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoFO11&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoFO11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 ---
 
 ## 📚 Em aprendizado contínuo
