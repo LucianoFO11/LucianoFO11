@@ -37,6 +37,7 @@
   <a href="https://pt.wikipedia.org/wiki/Linux"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
   <a href="https://pt.wikipedia.org/wiki/Ubuntu"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
 </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianoFO11)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
