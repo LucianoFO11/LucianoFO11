@@ -54,7 +54,4 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/luciano-saulo-123333272/)
 
 ---
-<div>
-<a href="https://github.com/LucianoFO11">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoFO11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
